@@ -849,8 +849,8 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: FYP - Scene
-  metroPackageVersion: 
+  metroPackageName: FYP-Scene
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -858,7 +858,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: FYP - Scene
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: FYP - Scene
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
