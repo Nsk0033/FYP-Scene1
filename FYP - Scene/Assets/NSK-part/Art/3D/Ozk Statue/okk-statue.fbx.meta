@@ -3,7 +3,12 @@ guid: 4acc49a454ad6ca4e9a7f1d41f84e420
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastered_stone_wall
+    second: {fileID: 2100000, guid: 864e4da15eb9c524cb70c764ea436d6d, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -30,7 +35,8 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
+    extraUserProperties:
+    - nanolod_0.397_0.147_0.05
     clipAnimations: []
     isReadable: 0
   meshes:
